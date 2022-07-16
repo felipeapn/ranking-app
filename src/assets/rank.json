@@ -1,0 +1,6 @@
+[
+  { "rank": "1", "name": "Felipe Alvarez", "rankChangedDirection": "up", "rankChangedNumber": "1", "img": "/assets/avatar/avatar1.png", "chalenge": "1", "challenged":"1"},
+  { "rank": "2", "name": "Alice Finamore", "rankChangedDirection": "down", "rankChangedNumber": "2", "img": "/assets/avatar/avatar1.png", "chalenge": "1", "challenged":"1"},
+  { "rank": "3", "name": "Olivia Paixão", "rankChangedDirection": "none", "rankChangedNumber": "", "img": "/assets/avatar/avatar1.png", "chalenge": "1", "challenged":"1"},
+  { "rank": "4", "name": "Valentina Paixão", "rankChangedDirection": "up", "rankChangedNumber": "1", "img": "/assets/avatar/avatar1.png", "chalenge": "1", "challenged":"1"}
+]
