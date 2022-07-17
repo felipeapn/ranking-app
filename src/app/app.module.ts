@@ -5,6 +5,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { RankingModule } from './ranking/ranking.module';
+import { MenuModule } from './shared/menu/menu.module';
 
 @NgModule({
   declarations: [
@@ -14,6 +15,7 @@ import { RankingModule } from './ranking/ranking.module';
     BrowserModule,
     HttpClientModule,
     RankingModule,
+    MenuModule,
     AppRoutingModule
   ],
   providers: [],
